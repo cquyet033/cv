@@ -1,0 +1,7 @@
+﻿# Ignore everything
+*
+
+# Whitelist tracked files
+!.gitignore
+!README.md
+!Chau-Huu-Quyet-CV-InternUnityDeveloper.pdf
